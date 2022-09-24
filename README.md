@@ -1,2 +1,3 @@
 # application-covoiturage
-class mini-project 
+class mini-project about covoiturage application
+
